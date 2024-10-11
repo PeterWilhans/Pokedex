@@ -11,7 +11,7 @@ Este projeto é uma Pokédex, uma ferramenta que permite aos usuários explorar 
 ## Instruções de Uso
 1. Acesse o site da Pokédex através do link fornecido abaixo.
 2. Digite o nome do Pokémon que você deseja buscar na barra de pesquisa.
-3. Veja as informações detalhadas sobre o Pokémon selecionado, como seu tipo, habilidades e outras características.
+3. Veja as informações detalhadas sobre o Pokémon selecionado, como seu nome, peso e altura.
 
 ## Link de Acesso
 [Link para a Pokédex hospedada no Vercel](https://pokedex-chi-amber.vercel.app/)
